@@ -2,7 +2,7 @@
 
 ![alt text](https://github.com/Brynlai/RestaurantProject/blob/main/RestaurantProjectImages/homehomepage.png?raw=true)
 
-**Built with these:** 
+## 🛠️ Tech Stack
 <p align="left">
    <a href="#">
       <img alt="HTML5" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
@@ -15,20 +15,22 @@
 
 **Using:** Php 7.4
 
-**Features:**
-* **Customer Side (customerSide Folder):** Stores the website and allows customers to:
-    * Make reservations
-    * Register for accounts
-    * View profile points
-* **Staff Side (adminSide Folder):** Stores the panels and allows staff to:
-    * Take orders
-    * Send orders to the kitchen
-    * Process payments
-    * Print receipts
-    * Manage CRUD operations
-    * View user preferences
-    * Download reports
-    * View charts and graph
+## 🌟 Key Features
+
+### 👤 Customer Facing
+* **Table Reservation System:** Book tables online with real-time availability checks.
+* **User Accounts:** Registration, login, and user profile management.
+* **Loyalty Points:** Earn and view rewards/points on orders.
+
+### 💼 Staff & Admin Panel
+* **Order Management:** Take walk-in and table orders with receipt printing.
+* **Kitchen Workflow:** Send live orders directly to the kitchen staff panel.
+* **Payment Processing:** Fast checkout and bill generation.
+* **Analytics & Reports:** Sales summary, revenue stats, charts, and downloadable reports.
+* **CRUD Management:** Full management for menu items, staff accounts, and customer lists.
+
+---
+
 
 
 
@@ -49,10 +51,8 @@
 | Role | Email | Password |
 |---|---|---|
 | Customer | dadsvawvid@gmail.com | david4pass |
-| Customer | zoe@gmail.com | passworddef |
 | Customer | jackie@gmail.com | passwordstu |
 | Staff | 1 | password123 |
-| Staff | 10 | davidpa2ss |
 | Staff | 7 | robertpass |
 | Admin | 99999 | 12345 |
 
@@ -75,16 +75,11 @@
 ![alt text](https://github.com/Brynlai/RestaurantProject/blob/main/RestaurantProjectImages/statisticspanel.png?raw=true)
 ![alt text](https://github.com/Brynlai/RestaurantProject/blob/main/RestaurantProjectImages/profilespanel.png?raw=true)
 
+👨‍💻 Developer & Maintainer
+ 
+|Kaif Ali Khan| - https://github.com/kaifali0647khan
 
 
-## Contributors
-
-| Name | Github |
-|---|---|
-| Bryan | https://github.com/BryanTheLai |
-| Yong | https://github.com/ahhyang |
-| Kevin | https://github.com/kevin07212004 |
-| Edzer | https://github.com/edsaur |
 
 ## If you want to put a password for the database, change the config.php files.
 
